@@ -1,0 +1,15 @@
+this is your new task
+Task:
+Develop an AI-powered Cold Email Generator with ChromaDB Integration using Python, LangChain, and Streamlit.
+
+Requirements:
+
+Build a tool to automate personalized email creation for job applications.
+Integrate ChromaDB for querying portfolios and retrieving relevant data.
+Use LangChain for natural language processing and content generation.
+Deploy the application on Streamlit, ensuring an intuitive UI that dynamically matches job descriptions to generate tailored emails.
+Deliverables:
+
+A fully functional Streamlit app.
+Well-documented codebase with clear instructions.
+A short demo or README explaining the setup and usage.
